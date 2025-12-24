@@ -27,7 +27,7 @@ export function Footer() {
           <Link href="/about" className="hover:text-ink transition-colors">
             About
           </Link>
-          <Link href="/#cta" className="hover:text-ink transition-colors">
+          <Link href="/contact" className="hover:text-ink transition-colors">
             Contact
           </Link>
         </div>

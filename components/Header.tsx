@@ -5,7 +5,7 @@ const navItems = [
   { label: "Services", href: "/#services" },
   { label: "Work", href: "/#work" },
   { label: "About", href: "/about" },
-  { label: "Contact", href: "/#cta" }
+  { label: "Contact", href: "/contact" }
 ];
 
 export function Header() {

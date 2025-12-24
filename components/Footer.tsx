@@ -18,16 +18,16 @@ export function Footer() {
           </Link>
         </div>
         <div className="flex items-center gap-6 text-sm text-mute">
-          <Link href="#services" className="hover:text-ink transition-colors">
+          <Link href="/#services" className="hover:text-ink transition-colors">
             Services
           </Link>
-          <Link href="#work" className="hover:text-ink transition-colors">
+          <Link href="/#work" className="hover:text-ink transition-colors">
             Work
           </Link>
-          <Link href="#philosophy" className="hover:text-ink transition-colors">
+          <Link href="/about" className="hover:text-ink transition-colors">
             About
           </Link>
-          <Link href="#cta" className="hover:text-ink transition-colors">
+          <Link href="/#cta" className="hover:text-ink transition-colors">
             Contact
           </Link>
         </div>

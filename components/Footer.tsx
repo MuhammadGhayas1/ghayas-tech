@@ -11,10 +11,10 @@ export function Footer() {
             Based in North America. Serving startups and growing businesses worldwide.
           </p>
           <Link
-            href="mailto:hello@ghayastech.com"
+            href="mailto:helloghayastech@gmail.com"
             className="body text-accent link-underline"
           >
-            hello@ghayastech.com
+            helloghayastech@gmail.com
           </Link>
         </div>
         <div className="flex items-center gap-6 text-sm text-mute">

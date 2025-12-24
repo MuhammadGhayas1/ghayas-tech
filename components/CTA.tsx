@@ -14,7 +14,7 @@ export function CTA() {
           </p>
         </div>
         <Link
-          href="mailto:hello@ghayastech.com"
+          href="mailto:helloghayastech@gmail.com"
           className="button-text bg-accent text-white px-8 h-12 rounded-full flex items-center justify-center transition-colors duration-300 hover:brightness-110"
         >
           Start a Project

@@ -1,7 +1,13 @@
-User-agent: OAI-SearchBot
+User-agent: *
 Allow: /
 
+Sitemap: https://ghayas-tech.pages.dev/sitemap.xml
+
+# Explicitly allow AI crawlers
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: ClaudeBot
@@ -9,12 +15,4 @@ Allow: /
 
 User-agent: PerplexityBot
 Allow: /
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: *
-Allow: /
-
-Sitemap: https://ghayastech.com/sitemap.xml
 

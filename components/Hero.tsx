@@ -7,7 +7,7 @@ export function Hero() {
       <div className="page-grid grid gap-12 lg:grid-cols-[1.2fr_0.8fr] items-center">
         <div className="space-y-8 animate-fadeUp">
           <h1 className="h1 text-ink">
-            We build digital experiences that feel effortless.
+            Ghayas Tech — We build digital experiences that feel effortless.
           </h1>
           <p className="body-muted max-w-2xl">
             Premium website design and development for brands that care about

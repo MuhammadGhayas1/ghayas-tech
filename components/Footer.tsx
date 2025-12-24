@@ -8,7 +8,7 @@ export function Footer() {
           <p className="subheading text-ink">Ghayas Tech</p>
           <p className="body-muted">Premium Website Design &amp; Development</p>
           <p className="body-muted text-sm">
-            Based in North America. Serving startups and growing businesses worldwide.
+            Serving startups and businesses across Canada, the United States, and globally.
           </p>
           <Link
             href="mailto:helloghayastech@gmail.com"

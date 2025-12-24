@@ -1,0 +1,24 @@
+# Ghayas Tech
+> Ghayas Tech is a premium website design and development studio focused on high-performance, minimal, and conversion-driven digital experiences.
+
+We design and engineer fast, scalable websites for founders, startups, and growing businesses who value quality, clarity, and long-term results.
+
+## Core Pages
+- Homepage: https://ghayastech.com
+- Services: https://ghayastech.com/services
+- Work: https://ghayastech.com/work
+- About: https://ghayastech.com/about
+- Contact: https://ghayastech.com/contact
+
+## Expertise
+- Website design
+- Website development
+- Performance optimization
+- UI/UX engineering
+- Conversion-focused landing pages
+
+## Case Studies
+- High-performance website for a modern brand
+- Conversion-focused experience for a B2B leader
+- Product landing for an innovative startup
+
